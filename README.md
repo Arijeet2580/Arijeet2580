@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [kararijeet26@gmail.com](mailto:kararijeet26@gmail.com)
 * 🚀  I'm currently working on [Food Catering Website](http://arijeet2580.github.io/Food_catering_Website/)
 * 🧠  I'm learning JavaScript and DSA
-* 🤝  I'm open to collaborating on interesting projects in UI Development
+* 🤝  I'm open to collaborating on interesting projects in Website Development
 
 ### Skills
 
