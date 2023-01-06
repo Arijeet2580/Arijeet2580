@@ -1,3 +1,4 @@
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://www.linkedin.com/in/arijeet-kar-98469b23a/)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arijeeet Kar
 ====================================================================================================================================
 
@@ -32,7 +33,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div width="100%" align="center"><a href="https://github.com/Arijeet2580/Food_catering_Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arijeet2580&repo=Food_catering_Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arijeet2580/BINOMIAL-DISTRIBUTION-PROBABILITY-FINDER" align="right">
   <br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Arijeet2580/Rock_Paper_Scissors_Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arijeet2580&repo=Rock_Paper_Scissors_Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
