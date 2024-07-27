@@ -2,9 +2,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)MySelf Arijeet
 ====================================================================================================================================
 
-* ✉️  You can contact me at [kararijeet26@gmail.com](mailto:kararijeet26@gmail.com)
-* 🧠  I'm currently learning web-devlopment 
-* 🤝  I'm open to collaborating on interesting projects in Website Development
+* ✉️  You can contact me at [arijeet.kar2003@gmail.com](mailto:arijeet.kar2003@gmail.com)
+* 🧠  I'm currently enhancing my knowledge by working on new Projects 
 
 ### Skills
 
@@ -30,7 +29,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>Top Repositories</b>
 
+
 <div width="100%" align="center"><a href="https://github.com/Arijeet2580/Food_catering_Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arijeet2580&repo=Food_catering_Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Arijeet2580/BINOMIAL-DISTRIBUTION-PROBABILITY-FINDER" align="right">
   <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Arijeet2580/Rock_Paper_Scissors_Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arijeet2580&repo=Rock_Paper_Scissors_Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  <br /><br /><br /><br /><br /><br /><br />
+
