@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * ✉️  You can contact me at [arijeet.kar2003@gmail.com](mailto:arijeet.kar2003@gmail.com)
-* 🧠  I'm currently enhancing my knowledge by working on new Projects 
+* 🧠  I'm currently enhancing my proficiency by working on new Projects 
 
 ### Skills
 
