@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Python, OpenCV**
 
 - 💬 Ask me about **Hardware Prototyping, DIY electronics, PCB Design**
-
-- 📫 How to reach me **arijeet.kar2003@gmail.com**
+  
+- 🤝  I'm open to collaborating on Embedded systems and IoT hardware
+  
+- 📫 How to reach me [**arijeet.kar2003@gmail.com**](mailto:arijeet.kar2003@gmail.com)
 
 - ⚡ Fun fact **I convert coffee to circuits. ⚡️☕️**
 
